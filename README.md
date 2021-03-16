@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently learning React.js among other Web Dev languages
 - 🥅  2021 Goals: Become more proficient in JS and React.js in particular and create a resume website
-<br />
+
 ---
 
 ### Connections:
@@ -42,7 +42,7 @@
 
 - Py2Pseudo: A Python to Pseudocode Translator created with Igor Michalec (BlueComrade)
 - TodoApp: My very first full React Website made with help from an online guide
-<br />
+
 ---
 <br />
 <details>
