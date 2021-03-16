@@ -6,16 +6,6 @@
 - 🥅  2021 Goals: Become more proficient in JS and React.js in particular and create a resume website
 
 ---
-
-### Connections:
-
-[<img align="left" alt="https://github.com/marcus-dk" width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />][website]
-[<img align="left" alt="marcusS | YouTube" width="22px" src="https://logoeps.com/wp-content/uploads/2015/07/youtube-icon-full-color.png" />][youtube]
-[<img align="left" alt="marcusS | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
-
-<br />
-
----
 ### Languages / Tools and Skills:
 
 <img align="left" alt="Python" width="26px" src="https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" />
@@ -37,8 +27,13 @@
 
 ---
 
-### Spotify Playing 🎧
-![Spotify](https://novatorem-marcus-dk.vercel.app/api/spotify)
+### Connections:
+
+[<img align="left" alt="https://github.com/marcus-dk" width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />][website]
+[<img align="left" alt="marcusS | YouTube" width="22px" src="https://logoeps.com/wp-content/uploads/2015/07/youtube-icon-full-color.png" />][youtube]
+[<img align="left" alt="marcusS | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+
+<br />
 
 ---
 
@@ -53,6 +48,11 @@
 This only shows the following: IssueEvent's, IssueCommentEvent's, PullRequestEvent's
 
 <!--START_SECTION:activity-->
+
+---
+
+### Spotify Playing 🎧
+![Spotify](https://novatorem-marcus-dk.vercel.app/api/spotify)
 
 ---
 
