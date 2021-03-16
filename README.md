@@ -44,12 +44,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-dk&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-dk&show_icons=true&hide_border=true&layout=compact&theme=material-palenight" />
+</a>
 
-  <img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-dk&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://github.com/marcus-dk
 [youtube]: https://www.youtube.com/channel/UCKpXkuHRFF33v-RlQ_UfhHg
