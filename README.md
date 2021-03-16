@@ -43,7 +43,7 @@
 - TodoApp: My very first full React Website made with help from an online guide
 
 ---
-<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
