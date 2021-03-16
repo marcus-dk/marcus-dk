@@ -7,11 +7,16 @@
 
 ---
 
+### Spotify Playing 🎧
+![Spotify](https://novatorem-marcus-dk.vercel.app/api/spotify)
+
+---
+
 ### Connections:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://github.com/marcus-dk" width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />][website]
+[<img align="left" alt="marcusS | YouTube" width="22px" src="https://logoeps.com/wp-content/uploads/2015/07/youtube-icon-full-color.png" />][youtube]
+[<img align="left" alt="marcusS | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
 <br />
 
@@ -37,16 +42,22 @@
 
 ---
 
-### Latest Projects
+### 💡 Latest Projects
 
 - Py2Pseudo: A Python to Pseudocode Translator created with Igor Michalec (BlueComrade)
 - TodoApp: My very first full React Website made with help from an online guide
 
 ---
 
+### :zap: Recent Activity
+This only shows the following: IssueEvent's, IssueCommentEvent's, PullRequestEvent's
+
+<!--START_SECTION:activity-->
+
+---
+
   <img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-dk&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-dk&show_icons=true&hide_border=true&layout=compact&theme=material-palenight" />
 </a>
 
