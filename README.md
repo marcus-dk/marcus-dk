@@ -7,11 +7,6 @@
 
 ---
 
-### Spotify Playing 🎧
-![Spotify](https://novatorem-marcus-dk.vercel.app/api/spotify)
-
----
-
 ### Connections:
 
 [<img align="left" alt="https://github.com/marcus-dk" width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />][website]
@@ -39,6 +34,11 @@
 - I'm learning React.js and am proficient CSS and HTML, Node.js and Vanilla JS are areas I'm also currently learning about<br />
 - I am capable of using JSON to store data and manipulate it<br />
 - I am always looking to grow in the field of programming and am always looking to collaborate on projects
+
+---
+
+### Spotify Playing 🎧
+![Spotify](https://novatorem-marcus-dk.vercel.app/api/spotify)
 
 ---
 
