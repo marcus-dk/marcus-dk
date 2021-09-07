@@ -1,9 +1,9 @@
 ### Hey :D I'm Marcus - aka [marcusS / marcus-dk][website] 👋
 
-## I'm a Student at the BSN (Soon to be Herlufsholm) and an aspiring Developer
+## I'm a Student at Herlufsholm and an aspiring Developer
 
-- 🌱  I’m currently learning React.js among other Web Dev languages
-- 🥅  2021 Goals: Become more proficient in JS and React.js in particular and create a resume website
+- 🌱  I’m currently experimenting in the world of Web Dev, Cyber Sec, and more.
+- 🥅  2021 Goals: Become more proficient in JS and React.js in particular and create a resume website.
 
 ---
 ### Languages / Tools and Skills:
