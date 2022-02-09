@@ -3,7 +3,7 @@
 ## I'm a Student at Herlufsholm and an aspiring Developer
 
 - 🌱  I’m currently experimenting in the world of Web Dev, Cyber Sec, and more.
-- 🥅  2021 Goals: Become more proficient in JS and React.js in particular and create a resume website.
+- 🥅  2021 Goals: Become more proficient with React.js to create: an app for my school, a website for Sorensen Capital, and a resume website
 
 ---
 ### Languages / Tools and Skills:
@@ -20,7 +20,7 @@
 <br />
 - I am proficient in Python and several of it's libraries including but not limited to: JSON, Flask, Discord, Tkinter (although i hate it)<br />
 - I am looking to expand my knowledge with Python whether it's for Machine Learning, Computer Vision, Data Science and more<br />
-- I am planning on learning C/C++ in the future to further expand my abilities<br />
+- I am currently learning React.js to become a proficient web developer along with along the line learning mobile development with React Native<br />
 - I am capable of using JSON to store data and manipulate it<br />
 - I am always looking to grow in the field of programming and am always looking to collaborate on projects
 
@@ -39,7 +39,7 @@
 ### 💡 Latest Projects
 
 - Py2Pseudo: A Python to Pseudocode Translator created with Igor Michalec (BlueComrade)
-- TodoApp: My very first full React Website made with help from an online guide
+- Some private projects to grow as a developer
 
 ---
 
