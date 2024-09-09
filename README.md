@@ -1,6 +1,6 @@
 ## hi, my name is marcus
 
-### dtu AI/Data student, herluf alum
+### software engineer @ Cap, dtu AI/Data student, herluf alum
 
 ---
 
