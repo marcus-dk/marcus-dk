@@ -1,4 +1,4 @@
-## hi, my name is marcus
+## hi, my name is marcus :)
 
 ### software engineer @ Cap, dtu AI/Data student, herluf alum
 
