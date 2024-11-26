@@ -16,11 +16,3 @@
 <img align="left" alt="Linux" width="26px" src="https://freepngimg.com/download/ubuntu/69507-tux-icons-computer-linux-free-download-png-hd.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br></br>
-
-<img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-dk&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight" />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" alt="marcus-dk's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-dk&show_icons=true&hide_border=true&layout=compact&theme=material-palenight" />
-</a>
-
